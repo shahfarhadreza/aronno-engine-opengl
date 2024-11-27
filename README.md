@@ -1,4 +1,4 @@
-# Aronno Engine (Under Development...)
+# Aronno Engine (OpenGL version)
 
 ## A 3D Game Engine
 Aronno Engine is a 3D game engine written in C++ and uses OpenGL 4.6 as its primary rendering API with a forward rendering system.
